@@ -1,0 +1,11 @@
+{
+    "description": "Explore unique digital assets each with its own story and rarity.",
+    "name": "Treasury Chest #439",
+    "image": "https://raw.githubusercontent.com/loonynvi/Lmaooff/main/uncommon.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Uncommon"
+        }
+    ]
+}
